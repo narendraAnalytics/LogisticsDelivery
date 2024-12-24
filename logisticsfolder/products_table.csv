@@ -1,0 +1,46 @@
+ProductID,ProductName,ProductCategory,BasePricePerUnit
+1,Smartphones,Consumer Electronics,9099
+2,Laptops,Consumer Electronics,22176
+3,Televisions,Consumer Electronics,75143
+4,Sedans,Automobiles and Auto Parts,71137
+5,Engine Components,Automobiles and Auto Parts,131861
+6,Tires,Automobiles and Auto Parts,66020
+7,T-Shirts,Apparel and Footwear,4181
+8,Jeans,Apparel and Footwear,2501
+9,Sneakers,Apparel and Footwear,4437
+10,Sofas,Furniture,40549
+11,Dining Tables,Furniture,27629
+12,Office Chairs,Furniture,4070
+13,Pain Relievers,Pharmaceuticals,1071
+14,Antibiotics,Pharmaceuticals,3512
+15,Vaccines,Pharmaceuticals,191
+16,Fresh Produce,Perishable Foods,323
+17,Dairy Products,Perishable Foods,368
+18,Meat Products,Perishable Foods,462
+19,Cement,Construction Materials,18644
+20,Steel Beams,Construction Materials,48947
+21,Lumber,Construction Materials,3345
+22,CNC Machines,Industrial Machinery,107298
+23,Conveyor Belts,Industrial Machinery,174770
+24,Generators,Industrial Machinery,94572
+25,Textbooks,Books and Educational Materials,1319
+26,Novels,Books and Educational Materials,822
+27,Educational Kits,Books and Educational Materials,368
+28,Refrigerators,Household Appliances,77921
+29,Washing Machines,Household Appliances,26604
+30,Microwaves,Household Appliances,14841
+31,Skincare Creams,Cosmetics and Personal Care Products,5130
+32,Shampoos,Cosmetics and Personal Care Products,1514
+33,Perfumes,Cosmetics and Personal Care Products,3508
+34,Action Figures,Toys and Games,2575
+35,Board Games,Toys and Games,1794
+36,Puzzles,Toys and Games,3679
+37,Tennis Rackets,Sporting Goods,9902
+38,Footballs,Sporting Goods,9795
+39,Yoga Mats,Sporting Goods,14612
+40,Printers,Office Supplies,856
+41,Notebooks,Office Supplies,4251
+42,Pens,Office Supplies,1416
+43,Pet Food,Pet Supplies,1434
+44,Leashes,Pet Supplies,1401
+45,Pet Toys,Pet Supplies,1789
